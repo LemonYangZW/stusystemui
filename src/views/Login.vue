@@ -69,7 +69,7 @@ export default {
 <style lang="less" scoped>
 .login_container {
   height: 100%;
-  background-image: url("../assets/images/登录.png");
+  background-image: url("../assets/images/login.png");
   background-size: 100%;
 }
 .login_box {
